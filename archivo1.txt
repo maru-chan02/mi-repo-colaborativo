@@ -4,8 +4,6 @@
 Editando en github
 
 
-<<<<<<< HEAD
 Cambio realizado en local
-=======
+
 Cambio realizado en GitHub (rama main)
->>>>>>> 76e9acb073f1a8c09c6471d2782cfe30bbd7a8ee

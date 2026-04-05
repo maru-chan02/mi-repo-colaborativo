@@ -7,3 +7,6 @@ Editando en github
 Cambio realizado en local
 
 Cambio realizado en GitHub (rama main)
+
+
+Línea añadida desde GitHub en la tarea.
